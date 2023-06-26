@@ -1,18 +1,10 @@
 ## Hi there I'm Arthur Pieri, working developer!
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 <div align="center">
   <a href="https://github.com/arthurpieri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurpieri&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpieri&layout=compact&langs_count=7&theme=onedark"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurpieri&layout=compact&langs_count=7&theme=onedark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999">
-  
-<!--   <img align="right" alt="Doug-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
   
   ##
